@@ -1,0 +1,30 @@
+---
+title : "최종프로젝트 1차 회의 "
+author : "yuseong lee"
+date : "2021-07-16"
+---
+
+데이터 참고 사이트
+https://dacon.io/competitions/official/17801/overview/description
+https://dacon.io/competitions/official/17801/overview/description
+https://dacon.io/competitions/official/235731/data
+https://dacon.io/competitions/official/235736/overview/description
+https://dacon.io/competitions/official/235680/overview/description
+
+총 3가지의 주제안이 나왔다.  
+
+
+1. 지역별 태양광 발전을 활용한 전력절감률은?
+ - 태양광 발전량 데이터를 이용하여 지역별 발전량을 예측하고, 
+   전력 사용량 데이터로 지역별 전력 소비량을 예측 후,
+   지역별로 태양열을 활용한 전력 절감률을 예측한다. 
+
+2. 북극 해빙예측
+ - 이상기후 현상으로 인한 북극의 해빙변화를 예측
+
+3. 아파트 경매가격 예측 및 시세차익 비교
+ - 과거 아파트 경매 데이터를 활용하여, 지역별 경매낙찰 가격을 예상하여 
+   원하는 지역의 경매매물을 추천해주며,예상 시세차익까지 알려준다.
+
+
+과제: 3개의 주제 중에 원하는 주제를 선정하여, 분석을 위한 데이터 변수활용 초안 짜오기.  
