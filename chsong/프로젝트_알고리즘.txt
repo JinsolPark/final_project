@@ -1,0 +1,27 @@
+Linear Regression
+- Ridge 
+	L2 규제( MSE 항에 Penalty 추가)
+	alpha 값을 크게 -> penalty 효과 증가
+	모델 단순화를 통해 설명력 개선
+
+- Lasso
+	L1 규제
+	특성 선택이 자동으로 이루어짐
+ 
+- Elastic Net : 
+
+Support Vector Machine
+- SVR
+	kernel 기법: 고차원 공간에서 비선형 특징을 학습(linear, rbf, polynomial 선택 가능)
+	선택하는 kernel에 따라 매개변수 설정 가능
+	입력데이터가 정규화 되어야 성능이 좋아짐(StandardSclaer, MinMaxScaler)
+LinearSVR
+KernelSVR
+
+Naive Bayes
+	GaussianNB(연속형데이터)
+
+ANN(인공신경망)
+
+RNN
+	LSTM - 실거래가 예측
